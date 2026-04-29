@@ -7,7 +7,8 @@ This project analyzes the Bangalore house price dataset with a focus on price pe
 Dataset
 https://drive.google.com/file/d/1UlWRYU0UglE2ex3iFse0J6eCLEU8g98P/view?usp=sharing
 
-Objectives
+# Objectives
+
 Perform basic Exploratory Data Analysis (EDA)
 Detect and remove outliers using:
 Mean and Standard Deviation
@@ -18,14 +19,16 @@ Visualize outliers using box plots
 Analyze distribution using histogram and apply transformations
 Compute correlation and visualize using a heatmap
 Analyze relationships using scatter plots
-Tech Stack
+
+# Tech Stack
+
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
 SciPy
-Project Workflow
+# Project Workflow
 1. Exploratory Data Analysis
 Loaded dataset and examined structure
 Checked missing values
