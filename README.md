@@ -20,6 +20,15 @@ Analyze distribution using histogram and apply transformations
 Compute correlation and visualize using a heatmap
 Analyze relationships using scatter plots
 
+# Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SciPy
+Jupyter Notebook
+
 # Tech Stack
 
 Python
